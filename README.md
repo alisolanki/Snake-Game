@@ -5,4 +5,4 @@ The traditional Snake Game.
 ![Snake Game](https://github.com/alisolanki/Snake-Game/blob/master/snakegame.jpg)
 
 ## Author
-* Mohd. Ali Solanki(https://www.alisolanki.gq)
+* Mohd. Ali Solanki (https://www.alisolanki.gq)
